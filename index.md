@@ -32,12 +32,12 @@ Energetic and passionate college student working towards Computer Science Major 
 ---
 ## CONTACT
 No : 123456789
-#
+
 Mail : 2023UCP1843@mnit.ac.in
-#
+
 Address : Street XYZ , India
-#
+
 [GitHub](https://github.com/)
-#
+
 [![App Platorm](https://mnit.ac.in/Images/about_images/pb_mnit.jpg)](https://mnit.ac.in/)
 
